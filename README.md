@@ -1,1 +1,1 @@
-# react
+# Rocket Academy Coding Bootcamp: Tic Tac Toe React
