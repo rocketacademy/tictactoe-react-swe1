@@ -1,5 +1,5 @@
 {
-  "name": "tictactoe-react-swe1",
+  "name": "tictactoe-react-bootcamp",
   "version": "1.0.0",
   "description": "",
   "main": ".eslintrc.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rocketacademy/tictactoe-react-swe1.git"
+    "url": "git+https://github.com/rocketacademy/tictactoe-react-bootcamp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rocketacademy/tictactoe-react-swe1/issues"
+    "url": "https://github.com/rocketacademy/tictactoe-react-bootcamp/issues"
   },
-  "homepage": "https://github.com/rocketacademy/tictactoe-react-swe1#readme",
+  "homepage": "https://github.com/rocketacademy/tictactoe-react-bootcamp#readme",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
